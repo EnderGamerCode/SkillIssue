@@ -1,0 +1,18 @@
+
+[general]
+
+	[general.notification]
+		giant_notifications = ""
+		giant_notification = true
+		color_picker = "255,0,0,255"
+		"§agiant_notification" = true
+		notification_color = "255,0,0,255"
+
+	[general.display]
+		"§afragrun_information" = true
+
+	[general.category]
+		giant_notification = true
+		color_picker = "255,255,0,0"
+		text = ""
+

@@ -1,0 +1,7 @@
+{
+  "name": "FragRunHelper",
+  "creator": "EnderGamer",
+  "description": "A CT module to help you FragRun!",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
